@@ -2,9 +2,15 @@
    color: green;
    font-size: 1.6vw;
    font-style: italic;
+   text-align: left;
 }   
 
 .choresHeading {
    color: black;
    text-decoration-line: underline;
+   text-align: left;
+}
+
+.choresAllText {
+   background-color: lime;
 }

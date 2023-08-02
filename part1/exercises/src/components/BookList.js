@@ -1,3 +1,5 @@
+
+
 export default function BookList() {
    let pageTitle = "My Favotite Books";
    let book1 = "https://pictures.abebooks.com/isbn/9781400079988-us.jpg";
@@ -7,9 +9,9 @@ export default function BookList() {
    return (
       <div>
          <h3>{pageTitle}</h3>
-         <img src={book1} alt="War and Piece by Leo Tolstoy" />
-         <img src={book2} alt="Harry Potter by J.K.Rowling" />
-         <img src={book3} alt="It by Stephen King" />
+         <img src={book1} width="100" height="120" alt="War and Piece by Leo Tolstoy" />
+         <img src={book2} width="100" height="120" alt="Harry Potter by J.K.Rowling" />
+         <img src={book3} width="100" height="120" alt="It by Stephen King" />
       </div>      
    );
 }

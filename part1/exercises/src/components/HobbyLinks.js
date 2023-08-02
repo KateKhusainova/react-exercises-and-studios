@@ -3,8 +3,10 @@ export default function HobbyLinks() {
     return (
       <div>
         <h3>My Hobbies</h3>
-        <a href = {hobbyLinks[0]}>Hiking</a>
-        <a href = {hobbyLinks[1]}>Fishing</a>
+        <ul>
+        <li><a href = {hobbyLinks[0]}>Hiking</a></li>
+        <li><a href = {hobbyLinks[1]}>Fishing</a></li>
+        </ul>
       </div>
     );
 }

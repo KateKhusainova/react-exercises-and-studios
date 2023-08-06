@@ -1,18 +1,18 @@
 [
-   {
-     "name": "The Five Guys Burger",
-     "author": "Bad Batch Baking",
-     "description": "This is the best Five Guys burger copycat recipe with the signature gooey cheesy center!",
-     "website": "https://badbatchbaking.com/the-best-five-guys-burger-copycat-recipe/",
-     "recipeImage": "https://i.pinimg.com/564x/26/c1/2a/26c12a1385e628e045a732d980e31f69.jpg",
-     "authorImage": "https://i.pinimg.com/280x280_RS/45/5d/83/455d835bf5e90c344403cca12b58ab74.jpg",
-     "ingredients": [
-      "Hamburger patties", 
-      "Hamburger buns", 
-      "Bacon", 
-      "Cheese", 
+    {
+    "name": "The Best Five Guys Burger",
+    "author": "Bad Batch Baking",
+    "description": "This is the best Five Guys burger copycat recipe with the signature gooey cheesy center!",
+    "website": "https://badbatchbaking.com/the-best-five-guys-burger-copycat-recipe/",
+    "recipeImage": "https://i.pinimg.com/564x/26/c1/2a/26c12a1385e628e045a732d980e31f69.jpg",
+    "authorImage": "https://i.pinimg.com/280x280_RS/45/5d/83/455d835bf5e90c344403cca12b58ab74.jpg",
+    "ingredients": [
+      "Hamburger patties",
+      "Hamburger buns",
+      "Bacon",
+      "Cheese",
       "Lettuce"
-     ]
-   }
- ]
+    ]
+  }
+]
  

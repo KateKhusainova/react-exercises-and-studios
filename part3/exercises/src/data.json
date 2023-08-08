@@ -1,0 +1,34 @@
+{ "projects":
+[
+    {
+     "title": "War and Peace",
+     "author": "Leo Tolstoy",
+     "cover": "https://d1b14unh5d6w7g.cloudfront.net/1400079985.01.S001.LXXXXXXX.jpg?Expires=1691590894&Signature=OQAcwCv5mRj9MUuZMOGf5FGC2JL0r8xsYN1ekwl13cs7eHsZJFPGby7nkMoXTwapcfycxGGuK2skrlBsLNF~VGLAVxi5xKnkDcB-qcJOc6FYiUvqU7x5JePsJQTdxCVTtzarg2ezpv3kKBcXKnk-LgQbpl31re2nVmV5GPn7mAE_&Key-Pair-Id=APKAIUO27P366FGALUMQ",
+     "howToBuy": "https://www.amazon.com/War-Peace-Vintage-Classics-Tolstoy/dp/1400079985"   
+    },
+    {
+     "title": "Crime and Punishment",
+     "author": "Fyodor Dostoyevsky",
+     "cover": "https://d1b14unh5d6w7g.cloudfront.net/0486415872.01.S001.LXXXXXXX.jpg?Expires=1691591207&Signature=MA2XhkToi7qOhfMYtiniGKe~415TVjsQ1mMjXthP2mg77ewaMTIHWhEbaKEE9buhr~csRQ7t2SNZWfY1LLWMJu5mE8amA-ue9KR6vjSQQfWtGpd4DcCiSUQr~VW1nL90YCS~DDRFsnD3FrmYmTAIduq~9hC2765AP60GYsmq2EA_&Key-Pair-Id=APKAIUO27P366FGALUMQ",
+     "howToBuy": "https://www.amazon.com/Crime-Punishment-Fyodor-Dostoyevsky/dp/0486415872"   
+    },
+    {
+     "title": "Jane Eyre",
+     "author": "Charlotte Brontë'",
+     "cover": "https://d1b14unh5d6w7g.cloudfront.net/0141441143.01.S001.LXXXXXXX.jpg?Expires=1691591357&Signature=fMzI-C-wXrP1SGcv2fRimUddd3JzETt~CSV63LvR3y2ZV33OwOlGlToc3LBFhs-zbjUp~pyaq9m0k3-ojJmvz7r54ZMDaUoF2Gh74yFtNiwMZUytnXxfO2jsjmYbiNnV1Z8kDKbzS-uuHALgJ4hK~zG~C75xv5DlCswTfHwr6EQ_&Key-Pair-Id=APKAIUO27P366FGALUMQ",
+     "howToBuy": "https://www.amazon.com/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143"   
+    },
+    {
+     "title": "Eat, Pray, Love",
+     "author": "Elizabeth Gilbert",
+     "cover": "https://d1b14unh5d6w7g.cloudfront.net/0143038419.01.S001.LXXXXXXX.jpg?Expires=1691591522&Signature=DQYFFY-PqvJr90Kqmd4a02XuniRKmJolPgIFrA~MPDjCKSb1TR~kno6S~EG2rqI04CKUeBN5TdSaJB9P1rpYWjlmKQaBOMJrmKa-KkG4OLJ5DV8LZIU-pYT8S5kHnXXLBypRPuKz0F0W83lSGoSgcG7MceV-MtL~JVNcLldCflQ_&Key-Pair-Id=APKAIUO27P366FGALUMQ",
+     "howToBuy": "https://www.amazon.com/Eat-Pray-Love-Everything-Indonesia/dp/0143038419"   
+    },
+    {
+     "title": "The Ink Black Heart",
+     "author": "Robert Galbraith",
+     "cover": "https://m.media-amazon.com/images/P/B09QKTCYVB.01._SCLZZZZZZZ_SX500_.jpg",
+     "howToBuy": "https://www.amazon.com/Black-Heart-Cormoran-Strike-Novel-ebook/dp/B09QKTCYVB"   
+    }
+]
+}

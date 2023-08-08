@@ -1,12 +1,14 @@
 //import logo from './logo.svg';
 import './App.css';
 import HobbyIntroduction from './components/Introduction';
+import MyProjects from './components/Projects';
 
 function App() {
   return (
     <div className="App">
       <h1>My Hobby: Reading Books</h1>
-      <HobbyIntroduction />      
+      <HobbyIntroduction /> 
+      <MyProjects />     
     </div>
   );
 }

@@ -16,13 +16,7 @@ function AuthorInfo() {
       <a href={data.website}>{data.website}</a>
     </div>
   ));
-  //recipedata.map((data) => {
-    //return (
-    //<div key={data.name}>{data.author}
-    //<img src={data.authorImage} alt={data.author} className="authorImage" />
-    //<a href={data.website}>{data.website}</a>
-    //</div>)
-  //)};
+  
   return (
     <div>
       {recipeAuthorImage}

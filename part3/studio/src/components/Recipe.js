@@ -1,11 +1,11 @@
 const RecipeAuthor = () => {
    let authorLink = "https://natashaskitchen.com/grilled-salmon-with-garlic-lime-butter/";
    let authorPhoto = "https://i.pinimg.com/280x280_RS/cc/e6/21/cce6215cd353b4d9c87cf7c3579cc62b.jpg";
-   let authorName = "Natashas Kitchen";
+   let authorName = "Natasha Kravchuk";
 
    return (
       <div>
-         <img src={authorPhoto} alt = "Natasha Kravchuk" style={{objectFit: "contain", borderRadius: "50%"}} />
+         <img src={authorPhoto} alt = "" style={{objectFit: "contain", borderRadius: "50%"}} />
          <div>
             <h3>{authorName}</h3>
             <a href={authorLink}>Website Natashas Kitchen</a> 

@@ -3,11 +3,11 @@ import { useState } from 'react';
 export default function BoardAssignment () {
    const boards = [
       { label: "Fish dishes",
-       value: "Fish dishes"},
+        value: "Fish dishes"},
       { label: "Dinner",
-       value: "Dinner"},
+        value: "Dinner"},
       { label: "Grilled dishes",
-       value: "Grilled dishes"}
+        value: "Grilled dishes"}
    ];
    const [boardName, setName] = useState("no boards yet!");
    

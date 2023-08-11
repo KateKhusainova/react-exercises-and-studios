@@ -9,7 +9,8 @@ export default function StatusChange () {
 
    const handleSubmit = (event) => {
       event.preventDefault();
-      setRecipeStatus(true);
+      //setRecipeStatus(true);
+      {notes!=="" ? setRecipeStatus(true) : setRecipeStatus(false)};
    }
 
    return (
@@ -20,9 +21,9 @@ export default function StatusChange () {
             <input type="submit" />
          </form>
 
-         <p>My Recipe Notes aren't here!</p>
+         <p>My Recipe Notes {notes}</p>
 
-         <p>I have not tried this recipe!</p>
+         <p>I {recipeStatus ? "have" : "have not"} tried this recipe!</p>
       </div>
    );
 }
